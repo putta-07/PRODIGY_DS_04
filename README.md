@@ -1,4 +1,3 @@
-# PRODIGY_DS_04
 # Twitter Sentiment Analysis
 
 This project analyzes the sentiment of tweets towards popular topics on Twitter. It uses a dataset of tweets labeled with sentiment (positive, negative, or neutral) and identifies the top mentioned topics. The project then visualizes the sentiment distribution for each topic to understand public opinion.
